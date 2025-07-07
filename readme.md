@@ -2,9 +2,9 @@
 
 ## Bio
 
-Technical Consultant with over 4 years of expertise in Big Data Analytics and Intelligence, through Splunk. Highly proficient with Splunk for Data Onboarding, ETL, Data Optimisation and translating large, complex datasets into compelling visualisations and presentations. 
+Data Analyst transitioning from over 4 years of expertise as a Big Data Professional using Splunk. Experienced with Data Analysis, Data Onboarding, ETL, Data Optimisation and translating large, complex datasets into compelling visualisations and presentations; with growing proficiency and experience in SQL, Python, Statistics and Tableau. 
 
-Currently pivoting toward a broader Data Analyst role by expanding proficiency in SQL, Python, Statistics, and Tableau. Passionate about understanding data and helping organisations leverage their data for strategic value and transformation.
+I'm passionate about understanding data at its core and helping organizations leverage their data assets for strategic value and digital transformation, I thrive on turning data challenges into opportunities for growth and improvement.
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
@@ -22,44 +22,6 @@ Currently pivoting toward a broader Data Analyst role by expanding proficiency i
 
 ## Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oli-dare-7741361b9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@oliddata) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odare3@gmail.com) 
-
-
-## Work Experience
-
-### Online Study @ Coursera & Developing Personal Projects, Feb 2025 - Present
-- Courses: [Advanced Google Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics), [Meta Data Analytics](https://www.coursera.org/professional-certificates/meta-data-analyst), [Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst)
-- Areas of study include: Data Storytelling, SQL, Python, Tableau, Power BI, Statistics and Machine Learning. 
-- Furthermore, building out a personal portfolio of Data Projects, linked below in 'Projects' Section.
-
-### Splunk Consultant @ Apto Solutions, UK  Sept 2020 - Jan 2025
--  Technical Consultant with extensive experience delivering Splunk deployments across industries, leading cloud implementations, configuring data onboarding as well as helping clients to maximise the value of their data.
-
-**Selected Projects:**
-
-**NHS (UK National Health Service)**
-
-- Implemented a solution, monitoring the data behind the nationwide Covid test and vaccine distribution.
-- Built advanced SPL searches and developed custom visualizations and dashboards to present complex healthcare data metrics to
-stakeholders, significantly improving the efficiency of vaccine distribution.
-- Alerting Solution was presented at Splunk Conf22.
-
-**Lloyds Bank (Major UK Bank)**
-
-- Designed and implemented ETL processes to map and standardise multiple data feeds.
-- Developed custom queries and reports to extract actionable insights from transaction data
-
-**Fexco (Fintech Company)**
-
-- Led an engagement using Splunk ES, strategically guiding a large Fintech company to improve their Security Posture.
-- Tasks included a data audit, developing a Threat Model, creating Detective Use Cases, configuring critical assets and identities.
-- Regularly presented the data insights and recommendations to C -suite executives & the Technical Team.
-
-**CityFibre Ltd (British Network Provider)**
-
-- Migrating the existing knowledge objects including alerts, searches, dashboards into a new environment.
-- Developed an Ansible script to upgrade architecture via code.
-
-
 
 ## Projects
 
@@ -96,3 +58,46 @@ stakeholders, significantly improving the efficiency of vaccine distribution.
 </div>
 
 - A collection of useful code and smaller projects.
+
+
+## Work Experience
+
+### Data Analyst - Freelance Jan 2025 - Present
+
+Currently developing data analytics capabilities through independent study focusing on data storytelling, SQL, Python, Tableau, Excel, statistical analysis, regression modeling, and machine learning. 
+
+Simultaneously building a project portfolio that demonstrates practical application of these technical skills across various data analysis scenarios. All projects are documented and accessible via my Git repository, showcasing my analytical approach and technical proficiency as I transition into a full-time data analyst career.
+
+- Courses: [Advanced Google Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics), [Meta Data Analytics](https://www.coursera.org/professional-certificates/meta-data-analyst), [Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst)
+- Personal portfolio of Data Projects, linked above in 'Projects' Section.
+
+### Splunk Consultant @ Apto Solutions, UK  Sept 2020 - Jan 2025
+-  Technical Consultant with extensive experience delivering Splunk deployments across industries, leading cloud implementations, configuring data onboarding as well as helping clients to maximise the value of their data.
+
+**Selected Projects:**
+
+**NHS (UK National Health Service)**
+
+- Implemented a solution, monitoring the data behind the nationwide Covid test and vaccine distribution.
+- Built advanced SPL searches and developed custom visualizations and dashboards to present complex healthcare data metrics to
+stakeholders, significantly improving the efficiency of vaccine distribution.
+- Alerting Solution was presented at Splunk Conf22.
+
+**Lloyds Bank (Major UK Bank)**
+
+- Designed and implemented ETL processes to map and standardise multiple data feeds.
+- Developed custom queries and reports to extract actionable insights from transaction data
+
+**Fexco (Fintech Company)**
+
+- Led an engagement using Splunk ES, strategically guiding a large Fintech company to improve their Security Posture.
+- Tasks included a data audit, developing a Threat Model, creating Detective Use Cases, configuring critical assets and identities.
+- Regularly presented the data insights and recommendations to C -suite executives & the Technical Team.
+
+**CityFibre Ltd (British Network Provider)**
+
+- Migrating the existing knowledge objects including alerts, searches, dashboards into a new environment.
+- Developed an Ansible script to upgrade architecture via code.
+
+
+
