@@ -35,11 +35,11 @@ I'm passionate about understanding data at its core and helping organizations le
 
 Partnered with [Extern](https://www.extern.com/) to deliver a real-world marketing insights project for Expedia, a global leader in travel tech.
 
--⁠  ⁠Designed and launched a behavioral travel survey, targeting digital-savvy consumers across demographics.
--⁠  ⁠Analyzed 1,000+ responses using Python (Pandas, Scikit-learn, Seaborn) and applied unsupervised learning (KMeans, PCA) to uncover data-driven traveler segments.
--⁠  ⁠Identified four distinct user personas based on age, travel frequency, spending, and platform usage.
--⁠  ⁠Delivered actionable marketing strategies tailored to each cluster, improving targeting across TikTok, Instagram, YouTube, and Facebook.
--⁠  ⁠Synthesized insights into a stakeholder-ready report to guide Expedia’s sponsored content optimization.
+- ⁠Designed and launched a behavioral travel survey, targeting digital-savvy consumers across demographics.
+- Analyzed 1,000+ responses using Python (Pandas, Scikit-learn, Seaborn) and applied unsupervised learning (KMeans, PCA) to uncover data-driven traveler segments.
+- ⁠Identified four distinct user personas based on age, travel frequency, spending, and platform usage.
+- Delivered actionable marketing strategies tailored to each cluster, improving targeting across TikTok, Instagram, YouTube, and Facebook.
+- ⁠Synthesized insights into a stakeholder-ready report to guide Expedia’s sponsored content optimization.
 
 🎯 Focus: Turning raw consumer data into segmentation models that inform social media and content strategy.
 
