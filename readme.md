@@ -25,7 +25,7 @@ I'm passionate about understanding data at its core and helping organizations le
 
 ## Projects
 
-### [### Expedia Consumer Travel Insights (Extern Project)](https://github.com/olidare/Data-Analytics---Expedia)
+### [Expedia Consumer Travel Insights (Extern Project)](https://github.com/olidare/Data-Analytics---Expedia)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/olidare/Data-Analytics---Waze" target="_blank">
