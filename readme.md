@@ -25,6 +25,20 @@ I'm passionate about understanding data at its core and helping organizations le
 
 ## Projects
 
+### [Extern - Expedia Consumer Travel Insights](https://github.com/olidare/Data-Analytics---Expedia)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/olidare/Data-Analytics---Waze" target="_blank">
+    <img src="/Assets/expedia.png" width="350" height="280" style="object-fit: cover;" />
+  </a>
+</div>
+
+
+- Working with [Extern](https://www.extern.com/) - Conducted a Marketing Consumer Insights Project for Expedia, Tech Travel company.
+- Conducted Market Research & Built a Consumer Response Survey.
+- Analysed the Responses with Python and Statistical Methods (Clustering).
+- Findings allowed us to identify certain User Groups and how they Travel can be best engaged by Social Media strategy.
+
 ### [Google Certification - Analysing User Churn for Waze](https://github.com/olidare/Data-Analytics---Waze)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
