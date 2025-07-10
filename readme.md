@@ -25,7 +25,7 @@ I'm passionate about understanding data at its core and helping organizations le
 
 ## Projects
 
-### [Extern - Expedia Consumer Travel Insights](https://github.com/olidare/Data-Analytics---Expedia)
+### [### Expedia Consumer Travel Insights (Extern Project)](https://github.com/olidare/Data-Analytics---Expedia)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/olidare/Data-Analytics---Waze" target="_blank">
@@ -33,11 +33,15 @@ I'm passionate about understanding data at its core and helping organizations le
   </a>
 </div>
 
+Partnered with [Extern](https://www.extern.com/) to deliver a real-world marketing insights project for Expedia, a global leader in travel tech.
 
-- Working with [Extern](https://www.extern.com/) - Conducted a Marketing Consumer Insights Project for Expedia, Tech Travel company.
-- Conducted Market Research & Built a Consumer Response Survey.
-- Analysed the Responses with Python and Statistical Methods (Clustering).
-- Findings allowed us to identify certain User Groups and how they Travel can be best engaged by Social Media strategy.
+-⁠  ⁠Designed and launched a behavioral travel survey, targeting digital-savvy consumers across demographics.
+-⁠  ⁠Analyzed 1,000+ responses using Python (Pandas, Scikit-learn, Seaborn) and applied unsupervised learning (KMeans, PCA) to uncover data-driven traveler segments.
+-⁠  ⁠Identified four distinct user personas based on age, travel frequency, spending, and platform usage.
+-⁠  ⁠Delivered actionable marketing strategies tailored to each cluster, improving targeting across TikTok, Instagram, YouTube, and Facebook.
+-⁠  ⁠Synthesized insights into a stakeholder-ready report to guide Expedia’s sponsored content optimization.
+
+🎯 Focus: Turning raw consumer data into segmentation models that inform social media and content strategy.
 
 ### [Google Certification - Analysing User Churn for Waze](https://github.com/olidare/Data-Analytics---Waze)
 
