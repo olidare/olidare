@@ -34,7 +34,7 @@ I'm passionate about understanding data at its core and helping organizations le
 ### [Expedia Consumer Travel Insights (Extern Project)](https://github.com/olidare/Data-Analytics---Expedia)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/olidare/Data-Analytics---Waze" target="_blank">
+  <a href="https://github.com/olidare/Data-Analytics---Expedia" target="_blank">
     <img src="/Assets/expedia.png" width="350" height="280" style="object-fit: cover;" />
   </a>
 </div>
