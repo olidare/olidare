@@ -26,6 +26,11 @@ I'm passionate about understanding data at its core and helping organizations le
 - M.S., Computer Science Conversion Course	| University of Bristol (2016 - 2018)	 			        		
 - B.S., Accounting and Finance |  University of Sheffield (2011 - 2014)
 
+## Resume 
+
+- **[📑 Online Resume found here](https://docs.google.com/document/d/1O2JP3f63yKs4ixJ4UAh_AG-AkqVQ0bzkDMesJH0s2AI/edit?tab=t.0)**
+
+
 ## Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oli-dare-7741361b9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@oliddata) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odare3@gmail.com) 
 
