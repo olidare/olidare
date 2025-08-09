@@ -34,7 +34,7 @@ I'm passionate about understanding data at its core and helping organizations le
 ## Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oli-dare-7741361b9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@oliddata) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odare3@gmail.com) 
 
-## Projects
+## Data Projects
 
 ### [Expedia Consumer Travel Insights (Extern Project)](https://github.com/olidare/Data-Analytics---Expedia)
 
